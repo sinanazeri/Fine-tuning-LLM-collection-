@@ -4,7 +4,7 @@ Fine-tuning LLM (collection)
 # 1- PEFT and LORA
 
 ---
-The video titled "Fine Tuning Large Language Models with PEFT and LoRa" discusses the challenges and solutions in fine-tuning large language models, focusing on parameter-efficient techniques like PEFT (Parameter-Efficient Fine Tuning) and LoRa (Low Rank Adaptation).
+The youtube video titled "Fine Tuning Large Language Models with PEFT and LoRa" discusses the challenges and solutions in fine-tuning large language models, focusing on parameter-efficient techniques like PEFT (Parameter-Efficient Fine Tuning) and LoRa (Low Rank Adaptation).
 
 ## Takeaways
 1. 🏋️ **Large Model Challenges**: Training large language models involves handling massive weights, requiring extensive compute resources.
@@ -38,4 +38,5 @@ Now, let's create a summary diagram to visually represent the key points from th
 
 Below is a diagram that visually summarizes the key points covered in the video about fine-tuning large language models using PEFT and LoRa:
 
-![Summary Diagram](https://diagrams.api.quanthium.io/diagram/0345f1fc-e97a-465c-a197-ef3d0afe5b56.png)
+![image](https://github.com/sinanazeri/Fine-tuning-LLM-collection-/assets/121966646/4e21ac1c-84e7-4311-8f94-b72bf277b113)
+
